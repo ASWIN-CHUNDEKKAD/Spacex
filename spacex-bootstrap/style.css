@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.header{
+    height: 57px !important;
+}
+.header-img{
+    height: 54px;
+    background-image: url(spacex-img/5842a770a6515b1e0ad75afe.png);
+    background-size: cover;
+    background-position: center;
+
+}
+.header-content{
+    height: 54px;
+}
+/* @media(max-width:768px){
+    .navigation-ul{
+        background-color: black;
+    }
+} */
+
+.s-1 h3{
+    position: absolute;
+    top: 350px;
+    left: 50px;
+
+}
+.s-1 h1{
+    position: absolute;
+    top: 385px;
+    left: 50px;
+
+}
+.s-1 h6{
+    position: absolute;
+    top: 465px;
+    left: 50px;      
+}
+.btn-div h6{
+    width: 125px;
+    height: 40px;
+    border: 2px solid white;
+    text-align: center;
+    padding-top: 7px;
+    
+}
+.s-2 h3{
+    position: absolute;
+    top: 350px;
+    left: 50px;
+
+}
+.s-2 h1{
+    position: absolute;
+    top: 385px;
+    left: 50px;
+
+}
+.s-2 h6{
+    position: absolute;
+    top: 505px;
+    left: 50px;      
+}
+.s-3 h3{
+    position: absolute;
+    top: 350px;
+    left: 50px;
+
+}
+.s-3 h1{
+    position: absolute;
+    top: 385px;
+    left: 50px;
+
+}
+.s-3 h6{
+    position: absolute;
+    top: 505px;
+    left: 50px;      
+}
+.s-4 h3{
+    position: absolute;
+    top: 350px;
+    left: 50px;
+
+}
+.s-4 h1{
+    position: absolute;
+    top: 385px;
+    left: 50px;
+
+}
+.s-4 h6{
+    position: absolute;
+    top: 465px;
+    left: 50px;      
+}
+.s-5 h1{
+    position: absolute;
+    top: 240px;
+    left: 50px;
+
+}
+.s-5 h6{
+    position: absolute;
+    top: 465px;
+    left: 50px;      
+}
+.footer{
+    /* height: 100px; */
+    background-color: black;
+    /* padding-top: 15px; */
+    font-size: 75%;
+}
+.footer-cont li{
+    margin-left: 30px;
+    cursor: pointer;
+}
+.footer-cont li:hover{
+    color: gray;
+}
+
+
+
+
+
